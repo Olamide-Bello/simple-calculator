@@ -29,7 +29,7 @@ tr, td {
 }
 
 td {
-    border-radius: 30%;
+    border-radius: 40px;
     text-align: center;
     font-weight: 700;
     font-size: large;
